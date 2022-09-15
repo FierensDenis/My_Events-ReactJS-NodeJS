@@ -2,7 +2,7 @@
   
   ----------------  
 
-  Ce projet a pour but d'utiliser une api externe qui regroupe des evenements proche de chez vous.  
+  Ce projet a pour but d'utiliser une api externe qui regroupe des événements proches de chez vous.  
     
 `Démarrer le projet :`  
 ```
