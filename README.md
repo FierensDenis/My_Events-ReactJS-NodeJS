@@ -16,3 +16,6 @@ dossier Back :
 npm install
 npm start
 ```
+<p align="center">
+    <img align="center" src="my_event.gif" height="200px" alt="e-commerceGIF">
+</p>
